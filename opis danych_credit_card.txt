@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/shelvigarg/credit-card-buyers?resource=download
+
+Predict whether a bank account holder is Potential Credit Card buyer or not!
+
+
